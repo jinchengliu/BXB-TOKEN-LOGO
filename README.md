@@ -1,0 +1,2 @@
+# BXB-TOKEN-LOGO
+logo
